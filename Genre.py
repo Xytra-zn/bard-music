@@ -1,5 +1,5 @@
 import logging
-from pyrogram import InlineKeyboardButton, InlineKeyboardMarkup
+from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 class Genre:
     def __init__(self, client):
