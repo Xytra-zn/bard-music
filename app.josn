@@ -24,11 +24,13 @@
       "**/*.png",
       "**/*.jpg",
       "**/*.js"
-    ]
-  },
-  "credentials": {
-    "API_ID": "your-api-id",
-    "API_HASH": "your-api-hash",
-    "BOT_TOKEN": "your-bot-token"
+    ],
+    "env": {
+      "API_ID": "your-api-id",
+      "API_HASH": "your-api-hash",
+      "BOT_TOKEN": "your-bot-token",
+      "MONGO_URI": "your-mongo-uri",
+      "PYRO_V2_ADDR": "your-pyro-v2-addr"
+    }
   }
 }
