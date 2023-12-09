@@ -38,10 +38,11 @@ git push heroku main
 /play_genre [genre name]
 ```
 
-**Repo:** [Your repo link]
+# XYTRA
+XYTRA TOH PAPA H ISME KYA PUCHNA
 
-**[DEPLOY ON HEROKU]**
+<h3 align="center">
+      ─「 <\> Deploy On Heroku <\> 」─
+</h3>
 
-Yeh button click karne se aapka bot Heroku pe deploy ho jayega.
-
-**[Repo link]** mein aapke bot ke code aur deployment instructions hain.
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Xytra-zn/bard-music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
